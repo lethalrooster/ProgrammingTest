@@ -11,6 +11,7 @@ namespace ProgrammingTest
         static void Main(string[] args)
         {
             int age = int.Parse(Console.ReadLine());
+            string name = Console.ReadLine();
         }
     }
 }
